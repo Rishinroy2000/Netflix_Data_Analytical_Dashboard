@@ -32,6 +32,18 @@ To explore and analyze Netflix’s content library with a focus on:
 
 ---
 
+## 🔍 Key Insights
+
+- **Movies** make up about **70%** of Netflix content.
+- **TV-MA** is the most common content rating.
+- The **United States** has the highest content contribution, followed by **India**.
+- **Rajiv Chilaka** is one of the most prolific directors.
+- Content releases peaked between **2018 and 2020**.
+- **Drama** (Movies) and **Kids' TV** (TV Shows) are top genres.
+- Most content is released in **May, July, and September**.
+
+---
+
 ## 🖼️ Dashboard Preview
 
 ![Netflix Data Dashboard](https://github.com/Rishinroy2000/Netflix_Data_Analytical_Dashboard/blob/main/Netflix%20Data%20Dashboard%20ss.png)
@@ -48,18 +60,6 @@ To explore and analyze Netflix’s content library with a focus on:
 
 - **Power BI** – for interactive dashboard development  
 - **Excel/Power Query** – for data cleaning and transformation
-
----
-
-## 🔍 Key Insights
-
-- **Movies** make up about **70%** of Netflix content.
-- **TV-MA** is the most common content rating.
-- The **United States** has the highest content contribution, followed by **India**.
-- **Rajiv Chilaka** is one of the most prolific directors.
-- Content releases peaked between **2018 and 2020**.
-- **Drama** (Movies) and **Kids' TV** (TV Shows) are top genres.
-- Most content is released in **May, July, and September**.
 
 ---
 
